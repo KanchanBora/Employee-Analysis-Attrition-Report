@@ -6,4 +6,4 @@ Predicting attrition is a supervised binary classification task and we aim  find
 
 1. It becomes easy to find the stakeholders having no technical background.
 
-2.Logistic Regression is relativly simple classifier capable of finding real time predictions making its implementation feasible in small devices also.
+ 2. Logistic Regression is relativly simple classifier capable of finding real time predictions making its implementation feasible in small devices also.
